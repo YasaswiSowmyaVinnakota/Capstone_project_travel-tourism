@@ -35,11 +35,8 @@ input{
 }
 
 body{
-    /* background-image: url("https://www.kashmironline.com/blog/wp-content/uploads/2023/01/moutaineering-kahsmir.jpg"); */
-    /* background-image: url(login.jpg); */
+    
     background-image:url(traveller.jpg);
-
-
     background-repeat: no-repeat;
     background-size: cover;
     
