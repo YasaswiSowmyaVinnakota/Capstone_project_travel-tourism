@@ -1,10 +1,7 @@
 
 .menu{
     height:100vh;
-    /* background-image:url(traveller.jpg); */
     background-image: url("https://www.kashmironline.com/blog/wp-content/uploads/2023/01/moutaineering-kahsmir.jpg");
-    /* background-image: url("https://www.metroeverest.com/storage/activities/18/920ecabb05b39462795e94f014d377e7.jpeg"); */
-
     background-size: cover;
 }
 button{
